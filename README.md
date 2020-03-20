@@ -1,2 +1,0 @@
-# Inddecision
-Created with CodeSandbox
